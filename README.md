@@ -19,4 +19,4 @@ yabai is (**Y**et **a**nother **B**OM **A**.**I**.).
 
 
 > [!CAUTION]
-> This repo is just a jork of fork. **Be the flow!**
+> This repo is just a joke (jork) of fork. **Be the flow!**
